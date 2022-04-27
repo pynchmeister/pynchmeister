@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me: 
+
+Experienced software engineer with 4+ years of demonstrable work in the blockchain/cryptocurrency startup space. Specialized in blockchain architechture across many chains (including Bitcoin, Ethereum, Solana, etc.), smart contracts, cryptography, oracles, NFTs, AMMs, Defi, etc.
+
+## Tech Stack
+
+* Solidity | Vyper | Yul
+* Moralis | TheGraph
+* Foundry | Hardhat | Truffle
+* Chai | Mocha 
+* React.js
+* Node.js
+* Rust
+* Haskell
+* Java
+* Golang
