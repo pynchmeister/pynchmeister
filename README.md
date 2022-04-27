@@ -26,7 +26,7 @@ Experienced software engineer with 4+ years of demonstrable work in the blockcha
 * Foundry | Hardhat | Truffle
 * Chai | Mocha 
 * Javascript
-* TYpescript
+* Typescript
 * Python
 * React.js
 * Redux
