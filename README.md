@@ -29,8 +29,18 @@ Experienced software engineer with 4+ years of demonstrable work in the blockcha
 * TYpescript
 * Python
 * React.js
+* Redux
 * Node.js
 * Rust
 * Haskell
 * Java
 * Golang
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pynchmeister&theme=tokyonight)
+-->
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pynchmeister&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pynchmeister&langs_count=5&theme=tokyonight)]() -->
+
+
+
