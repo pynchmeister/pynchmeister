@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me: 
 
-Experienced software engineer with 4+ years of demonstrable work in the blockchain/cryptocurrency startup space. Specialized in blockchain architechture across many chains (including Bitcoin, Ethereum, Solana, etc.), smart contracts, cryptography, oracles, NFTs, AMMs, Zero-knowledge proofs, Defi, etc.
+Experienced software engineer with 4+ years of demonstrable work in the blockchain/cryptocurrency startup space. Specialized in blockchain architechture across many chains (including Bitcoin, Ethereum, Solana, etc.), smart contracts, cryptography, oracles, NFTs, Fractionalized Tokens, AMMs, Zero-knowledge proofs, Defi, etc.
 
 ## Tech Stack
 
