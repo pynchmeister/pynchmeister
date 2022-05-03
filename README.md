@@ -22,6 +22,7 @@ Experienced software engineer with 4+ years of demonstrable work in the blockcha
 ## Tech Stack
 
 * Solidity | Vyper | Yul
+* Web3.js | Ethers.js
 * Moralis | TheGraph
 * Foundry | Hardhat | Truffle
 * Chai | Mocha 
