@@ -32,6 +32,7 @@ Experienced software engineer with 4+ years of demonstrable work in the blockcha
 * Python
 * React.js
 * Redux
+* Next.js
 * Node.js
 * Rust
 * Haskell
