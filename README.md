@@ -82,22 +82,12 @@ Deep dives, experiments, and implementation patterns in low-level EVM & Yul.
 **Tech:** Yul, Assembly, Foundry  
 👉 https://github.com/pynchmeister/yul-greatest-hits
 
----
-
-## 🔧 **What I’m Working On Now**
-
-- ⚙️ Advanced smart contract architecture & gas-optimized Solidity/Yul patterns  
-- 🧱 Production engineering for **Etch’s NFT protocol**, including backend integrations & optimized UX flows  
-- 🧪 Continued Yul, Foundry, and EVM internals research and experimentation  
-- 🏗️ Further development of **DED (Decentralized Education Development)** — scaling the architecture, strengthening arbitration mechanics, and expanding rollup + storage integrations  
-- 📚 Creating improved educational materials for Solidity, EVM fundamentals, and blockchain architecture  
-
----
-
 ## 🎓 **Teaching & Mentorship**
 
 I’ve taught **30+ students** how to build secure and scalable blockchain systems:
 
+- Designed custom curriculum, hands-on labs, and real-world development exercises  
+- Focus on smart-contract security, EVM internals, and best practices  
 - Solidity (beginner → advanced)  
 - Smart contract security practices  
 - EVM internals & gas modeling  
@@ -105,16 +95,6 @@ I’ve taught **30+ students** how to build secure and scalable blockchain syste
 - Modular rollups & next-gen blockchain architecture  
 
 I’m passionate about decentralized education and mentorship.
-
----
-
-## 📫 **Connect With Me**
-
-- **GitHub:** https://github.com/pynchmeister  
-- **LinkedIn:** https://linkedin.com/in/harris-levine-486191164  
-- **Email:** acyclicgraphs@gmail.com  
-
----
 
 ## 💼 **Open to Roles In:**
 
@@ -124,14 +104,6 @@ I’m passionate about decentralized education and mentorship.
 - ZK / Cryptography R&D  
 - Web3 Developer Tooling  
 - Modular Rollups (Celestia, Rollkit, Sovereign Chains)
-
-### 🔹 **Teaching — Blockchain & Solidity Instructor**
-- Taught 30+ students Solidity and blockchain engineering  
-- Designed custom curriculum, hands-on labs, and real-world development exercises  
-- Focus on smart-contract security, EVM internals, and best practices  
-**Tech:** `Solidity` • `Foundry` • `Hardhat` • `Remix` • `Node.js`
-
----
 
 ## 🛠️ **Tech Stack**
 
@@ -152,54 +124,6 @@ I’m passionate about decentralized education and mentorship.
 
 ---
 
-## 📚 **Current Focus**
-- Smart contract security & gas optimization  
-- Modular blockchain development  
-- Zero-knowledge + privacy-preserving computation  
-- Decentralized education systems (DED)  
-- Teaching the next generation of blockchain engineers  
-
----
-
-## 📫 **Connect With Me**
-
-- **GitHub:** https://github.com/pynchmeister  
-- **Email:** acyclicgraphs@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/harris-levine-486191164  
-A decentralized verification tool integrating **Sourcify**, serverless indexing, and a full UI.  
-**Tech:** Solidity, Next.js, TypeScript, Prisma  
-👉 _Repo link here_
-
----
-
-### 🔹 **Etch NFT Protocol Work**  
-Smart contract architecture + backend/API engineering for an advanced NFT protocol (NDA-protected).  
-Responsible for:  
-- Gas-optimized contract systems  
-- Cross-component backend integration  
-- Optimized UX-focused UI flows  
-**Tech:** Solidity, Foundry, Angular, TypeScript  
-👉 _Public repos if available / otherwise describe role_
-
----
-
-### 🔹 **Wells (Renamed Basin) DEX — Beanstalk Farms**  
-On-chain ERC-20 exchange with:  
-- Gas-optimized Yul components  
-- Fuzz testing and invariants  
-- Audit-ready modular design  
-**Tech:** Solidity, Yul, Foundry, Hardhat  
-👉 _Repo link here_
-
----
-
-### 🔹 **Yul / Low-Level EVM Research**  
-Deep dives, experiments, and implementation patterns in low-level EVM & Yul.  
-**Tech:** Yul, Assembly, Foundry  
-👉 _Repo link here_
-
----
-
 ## 🔧 **What I’m Working On Now**
 
 - ⚙️ Advanced smart contract architecture & gas-optimized Solidity/Yul patterns  
@@ -221,16 +145,6 @@ I’ve taught **30+ students** how to build secure and scalable blockchain syste
 - Modular rollups & next-gen blockchain architecture  
 
 I’m passionate about decentralized education and mentorship.
-
----
-
-## 📫 **Connect With Me**
-
-- **GitHub:** https://github.com/pynchmeister  
-- **LinkedIn:** https://linkedin.com/in/harris-levine-486191164  
-- **Email:** acyclicgraphs@gmail.com  
-
----
 
 ## 💼 **Open to Roles In:**
 
