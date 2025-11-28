@@ -67,7 +67,7 @@ Responsible for:
 
 ---
 
-### 🔹 **Wells DEX — Beanstalk Farms**  
+### 🔹 **Wells (Renamed Basin) DEX — Beanstalk Farms**  
 On-chain ERC-20 exchange with:  
 - Gas-optimized Yul components  
 - Fuzz testing and invariants  
