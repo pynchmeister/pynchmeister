@@ -46,11 +46,126 @@ A decentralized education protocol built on a **Celestia sovereign rollup**, fea
 - Real-time collaboration via **WebRTC**  
 - Rollkit/Ethermint execution environment  
 **Tech:** Celestia, Rollkit, IPFS, Solidity, Node.js  
-👉 _Repo link here_ (pin this repo)
 
 ---
 
 ### 🔹 **Contract Verification System (Modular Cloud)**  
+A decentralized verification tool integrating **Sourcify**, serverless indexing, and a full UI.  
+**Tech:** Solidity, Next.js, TypeScript, Prisma  
+
+https://github.com/modularcloud/explorer
+
+---
+
+### 🔹 **Etch NFT Protocol Work**  
+Smart contract architecture + backend/API engineering for an advanced NFT protocol (NDA-protected).  
+Responsible for:  
+- Gas-optimized contract systems  
+- Cross-component backend integration  
+- Optimized UX-focused UI flows  
+**Tech:** Solidity, Foundry, Angular, TypeScript  
+
+---
+
+### 🔹 **Wells DEX — Beanstalk Farms**  
+On-chain ERC-20 exchange with:  
+- Gas-optimized Yul components  
+- Fuzz testing and invariants  
+- Audit-ready modular design  
+**Tech:** Solidity, Yul, Foundry, Hardhat  
+👉 https://github.com/BeanstalkFarms/Basin
+
+---
+
+### 🔹 **Yul / Low-Level EVM Research**  
+Deep dives, experiments, and implementation patterns in low-level EVM & Yul.  
+**Tech:** Yul, Assembly, Foundry  
+👉 https://github.com/pynchmeister/yul-greatest-hits
+
+---
+
+## 🔧 **What I’m Working On Now**
+
+- ⚙️ Advanced smart contract architecture & gas-optimized Solidity/Yul patterns  
+- 🧱 Production engineering for **Etch’s NFT protocol**, including backend integrations & optimized UX flows  
+- 🧪 Continued Yul, Foundry, and EVM internals research and experimentation  
+- 🏗️ Further development of **DED (Decentralized Education Development)** — scaling the architecture, strengthening arbitration mechanics, and expanding rollup + storage integrations  
+- 📚 Creating improved educational materials for Solidity, EVM fundamentals, and blockchain architecture  
+
+---
+
+## 🎓 **Teaching & Mentorship**
+
+I’ve taught **30+ students** how to build secure and scalable blockchain systems:
+
+- Solidity (beginner → advanced)  
+- Smart contract security practices  
+- EVM internals & gas modeling  
+- Foundry, Hardhat, and testing methodologies  
+- Modular rollups & next-gen blockchain architecture  
+
+I’m passionate about decentralized education and mentorship.
+
+---
+
+## 📫 **Connect With Me**
+
+- **GitHub:** https://github.com/pynchmeister  
+- **LinkedIn:** https://linkedin.com/in/harris-levine-486191164  
+- **Email:** acyclicgraphs@gmail.com  
+
+---
+
+## 💼 **Open to Roles In:**
+
+- Smart Contract Engineering  
+- Protocol Engineering  
+- Blockchain Infrastructure  
+- ZK / Cryptography R&D  
+- Web3 Developer Tooling  
+- Modular Rollups (Celestia, Rollkit, Sovereign Chains)
+
+### 🔹 **Teaching — Blockchain & Solidity Instructor**
+- Taught 30+ students Solidity and blockchain engineering  
+- Designed custom curriculum, hands-on labs, and real-world development exercises  
+- Focus on smart-contract security, EVM internals, and best practices  
+**Tech:** `Solidity` • `Foundry` • `Hardhat` • `Remix` • `Node.js`
+
+---
+
+## 🛠️ **Tech Stack**
+
+**Smart Contracts:**  
+`Solidity` • `Yul` • `Foundry` • `Hardhat` • `OpenZeppelin`  
+
+**Blockchain / Infra:**  
+`Celestia` • `Rollkit` • `Ethermint` • `IPFS` • `Filecoin` • `Sourcify`  
+
+**Frontend:**  
+`Next.js` • `React` • `Angular` • `TypeScript`  
+
+**Backend:**  
+`Node.js` • `Prisma` • `PostgreSQL` • `SQL`  
+
+**Other:**  
+`FHE` • `Hypergraphs` • `Python` • `Golang` • `AWS`
+
+---
+
+## 📚 **Current Focus**
+- Smart contract security & gas optimization  
+- Modular blockchain development  
+- Zero-knowledge + privacy-preserving computation  
+- Decentralized education systems (DED)  
+- Teaching the next generation of blockchain engineers  
+
+---
+
+## 📫 **Connect With Me**
+
+- **GitHub:** https://github.com/pynchmeister  
+- **Email:** acyclicgraphs@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/harris-levine-486191164  
 A decentralized verification tool integrating **Sourcify**, serverless indexing, and a full UI.  
 **Tech:** Solidity, Next.js, TypeScript, Prisma  
 👉 _Repo link here_
