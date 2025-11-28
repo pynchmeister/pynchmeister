@@ -9,7 +9,7 @@ I’m also building a decentralized EdTech platform focused on open-access knowl
 ## 🚀 **Featured Work**
 
 ### 🔹 **Beanstalk Farms — Smart Contract Engineer**
-- Worked on **Wells**, an EVM-native AMM  
+- Worked on **Wells** (renamed [Basin](https://github.com/BeanstalkFarms/Basin), an EVM-native AMM  
 - Added new smart contract features  
 - Performed **fuzz testing**, **integration testing**, and **gas optimizations** using Foundry  
 - Contributed to **audit preparation**  
@@ -29,18 +29,17 @@ I’m also building a decentralized EdTech platform focused on open-access knowl
 - Built an arbitration system using long-term data availability on **IPFS + Filecoin**  
 - Created a **sovereign rollup** prototype using Ethermint + Rollkit  
 - Developed the **Learning Session** smart contract for decentralized educational content  
-**Tech:** `Golang` • `Celestia` • `Rollkit` • `IPFS` • `Solidity` • `React`
-
----
+**Tech:** `Golang` • `Celestia` • `Rollkit` • `IPFS` • `Solidity` • `
 
 ### 🔹 **DED — Decentralized Education Development (EdTech DApp Startup)**
-- Founder & lead engineer of **DED**, a decentralized education platform  
-- Users can upload lessons, content, and educational materials for **permanent storage**  
-- Built a decentralized arbitration + community-validation system for lesson quality  
-- Uses IPFS / Filecoin for long-term storage and sovereign rollups for scalability  
-- Vision: a global, censorship-resistant educational ecosystem accessible to anyone  
-**Tech:** `Solidity` • `Celestia` • `IPFS` • `Filecoin` • `React` • `Node.js`
-
+- Founder & lead engineer of **DED**, a decentralized education platform focused on global, censorship-resistant learning  
+- Enables students and educators to teach or learn **niche and highly valuable skill sets** that traditional education systems don’t offer  
+- Built for **interactive, 1-on-1 or group learning** environments using **WebRTC**, allowing real-time video, audio, and collaboration  
+- Integrated on-chain payments: learners can pay educators directly through the DApp with crypto, with no intermediaries or platform extraction, using robust escrow architecture.
+- Lessons, educational content, and community knowledge are stored permanently using **IPFS / Filecoin**  
+- Includes a decentralized arbitration + community validation system to ensure lesson quality  
+- Uses a Celestia sovereign rollup for scalable, trust-minimized interactions  
+**Tech:** `Solidity` • `Celestia` • `IPFS` • `Filecoin` • `WebRTC` • `React` • `Node.js`
 ---
 
 ### 🔹 **Teaching — Blockchain & Solidity Instructor**
