@@ -134,18 +134,6 @@ I’m passionate about decentralized education and mentorship.
 
 ---
 
-## 🎓 **Teaching & Mentorship**
-
-I’ve taught **30+ students** how to build secure and scalable blockchain systems:
-
-- Solidity (beginner → advanced)  
-- Smart contract security practices  
-- EVM internals & gas modeling  
-- Foundry, Hardhat, and testing methodologies  
-- Modular rollups & next-gen blockchain architecture  
-
-I’m passionate about decentralized education and mentorship.
-
 ## 💼 **Open to Roles In:**
 
 - Smart Contract Engineering  
@@ -154,17 +142,6 @@ I’m passionate about decentralized education and mentorship.
 - ZK / Cryptography R&D  
 - Web3 Developer Tooling  
 - Modular Rollups (Celestia, Rollkit, Sovereign Chains)
-
----- Includes a decentralized arbitration + community validation system to ensure lesson quality  
-- Uses a Celestia sovereign rollup for scalable, trust-minimized interactions  
-**Tech:** `Solidity` • `Celestia` • `IPFS` • `Filecoin` • `WebRTC` • `React` • `Node.js`
----
-
-### 🔹 **Teaching — Blockchain & Solidity Instructor**
-- Taught 30+ students Solidity and blockchain engineering  
-- Designed custom curriculum, hands-on labs, and real-world development exercises  
-- Focus on smart-contract security, EVM internals, and best practices  
-**Tech:** `Solidity` • `Foundry` • `Hardhat` • `Remix` • `Node.js`
 
 ---
 
