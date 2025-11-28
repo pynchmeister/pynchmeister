@@ -99,7 +99,7 @@ Repo: https://github.com/modularcloud/explorer
 
 **Private Repo (Code Restricted Under NDA)**  
 
-Etch is an **NFT-powered social media platform** that enables creators, educators, and communities to publish, collect, and interact with on-chain media in a more flexible and expressive way than traditional Web2 platforms.
+Etch is an **NFT-powered social media platform** that enables creators and communities to publish, collect, and interact with on-chain media in a more flexible and expressive way than traditional Web2 platforms.
 
 My role on Etch focuses on the **core smart contract architecture** and protocol integration work, including:
 
