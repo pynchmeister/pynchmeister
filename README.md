@@ -1,209 +1,203 @@
-# 🌐 **Harris Levine — pynchmeister**  
-### **Smart Contract & Protocol Engineer**  
+# 🌐 Harris Levine — `pynchmeister`
+### Senior Smart Contract Engineer • Protocol Builder • Founder of DED
+
 **Solidity · Yul · Foundry · Celestia · Modular Rollups · EVM Internals · FHE · TypeScript**
 
 ---
 
-## 🚀 **About Me**
+## 🚀 About Me
 
-I’m a **senior smart contract engineer & full-stack blockchain developer** with **6+ years** of experience building:
+I’m a **smart contract engineer, protocol researcher, and full-stack Web3 builder** with **6+ years** of experience shipping production systems across:
 
-- Production-grade **DeFi protocols**  
+- **DeFi protocols** and on-chain marketplaces  
 - **Modular rollups** (Celestia / Rollkit / Ethermint)  
-- Secure, gas-optimized **Solidity/Yul smart contracts**  
-- Cryptographic systems and emerging blockchain primitives  
-- On-chain **NFT protocols**, verifiable storage, and decentralized tooling  
-- Scalable Web3 infrastructure used in real applications  
+- **Explorers & verification tooling**  
+- **FHE & cryptography-driven applications**  
+- **Decentralized education & media protocols**
 
-I’ve shipped real-world protocol features, architected sovereign rollup components, built developer tooling, and taught **30+ students** blockchain development, EVM internals, and Solidity design patterns.
+I’ve contributed to **audited, production-grade DeFi**, designed **sovereign rollup architectures**, built **developer tooling** for real networks, and taught **30+ students** Solidity, EVM internals, and security.
 
-Currently focused on advanced Solidity engineering, backend infra, and real-world protocol architecture.
+Right now I’m focused on:
 
----
-
-## 🧠 **Technical Specializations**
-
-### **Smart Contracts**  
-`Solidity` · `Yul` · `Foundry` · `Hardhat` · `Security` · `Gas Optimization`  
-`Invariant Testing` · `Property-Based Testing` · `Fuzzing` · `Audit Preparation`
-
-### **Blockchain / Infra**  
-`Celestia` · `Rollkit` · `Ethermint` · `Data Availability` · `Sovereign Rollups`  
-`Execution Environments` · `IPFS` · `Filecoin` · `Sourcify` · `FHE`
-
-### **EVM Internals & Tooling**  
-`Opcodes` · `EVM Debugging` · `Stack/Memory Analysis` · `Gas Profiling`  
-`Low-Level Assembly` · `Decompilation`  
-
-### **Backend / Services**  
-`TypeScript` · `Node.js` · `Prisma` · `PostgreSQL` · `SQL` · `Redis`  
-`Caching` · `gRPC (conceptual)` · `REST` · `Serverless`
-
-### **Frontend**  
-`Next.js` · `React` · `Angular` · `TypeScript`
-
-### **DevOps / Infra**  
-`Docker` · `GitHub Actions (CI/CD)` · `AWS` · `Vercel`  
-`Monitoring` · `Logging` · `Deployment Pipelines`
-
-### **Cryptography / Wallets**  
-`Key Management` · `Signature Schemes` · `Wallet Integrations`  
-`Access Control` · `Identity-Agnostic Auth`  
-
-### **Other**  
-`Golang` · `Python` · `Hypergraphs` · `WebRTC`
+- Advanced **Solidity/Yul** engineering  
+- **Protocol / infra** design on modular stacks  
+- **DED**, a decentralized education protocol for verifiable, peer-to-peer learning  
 
 ---
 
-## ⭐ **Featured Projects**
+## 🧠 Technical Focus
 
-### 🔹 **DED — Decentralized Education Protocol (Private MVP)**  
+**Smart Contracts & Security**  
+`Solidity` · `Yul` · `Foundry` · `Hardhat` · gas optimization · fuzzing · invariants · audit prep  
 
-**DED (Decentralized Education Delivery)** is a protocol I’ve been designing that enables **permissionless, trust-minimized, peer-to-peer education** using blockchain primitives.
+**Blockchain / Infra**  
+`Celestia` · `Rollkit` · `Ethermint` · DA layers · `IPFS` · `Filecoin` · `Sourcify` · `FHE`  
 
-DED targets a core problem in online learning: there is no verifiable, open, decentralized system for **live instruction, credentialing, and skill exchange**.
+**EVM Internals**  
+Opcodes · stack/memory analysis · gas profiling · low-level assembly  
 
-At a high level, DED explores:
+**Full Stack**  
+`TypeScript` · `Node.js` · `Prisma` · `PostgreSQL` · `Next.js` · `React` · `Angular`  
+
+**Other**  
+`WebRTC` · `Python` · `Golang` · hypergraphs · wallet integrations  
+
+---
+
+## ⭐ Featured Work
+
+### 🔹 DED — Decentralized Education Development (Founder, Active)
+
+**DED** is a protocol and platform for **permissionless, trust-minimized, peer-to-peer education**.
+
+It explores:
 
 - **Verifiable learning sessions**  
-  - On-chain commitments around live, synchronous instruction  
-  - Identity-agnostic participation and instructor guarantees  
-  - Cryptographically verifiable participation without exposing sensitive data
+  - On-chain commitments around live instruction  
+  - Identity-agnostic participation with cryptographic guarantees  
 
-- **Transparent, on-chain payment flows**  
-  - Conditional settlement and escrow patterns  
-  - Incentive-aligned instructor and student mechanics  
-  - Fair, dispute-resistant economic flows
+- **Transparent payment & escrow flows**  
+  - Conditional settlement and dispute-aware escrows  
+  - Incentive-aligned economics for students and instructors  
 
 - **Decentralized credentialing**  
   - “Proof-of-learning” artifacts  
-  - On-chain skill attestations and participation receipts  
-  - Non-transferable completion proofs  
+  - Non-transferable completion receipts and on-chain skill attestations  
 
-- **Session replays with permissioned access**  
-  - Hosts can grant/revoke replay access  
-  - Participants can rent/license recordings under controlled on-chain conditions  
+- **Replayable, permissioned sessions**  
+  - Controlled access to session recordings  
+  - Rental / licensing flows enforced on-chain  
 
-All implementation details remain private until launch.
-
-My work includes protocol design, state modeling, settlement logic, session verification design, and early MVP implementation across **Solidity**, **rollups**, and **on-chain media architectures**.
+Implementation spans **Solidity**, **rollup-friendly design**, and **WebRTC-driven live sessions**.  
+Current status: **MVP contracts + frontend + WebRTC integration** on testnet, pushing toward mainnet.
 
 ---
 
-### 🔹 **Contract Verification System (Modular Cloud)**  
+### 🔹 Modular Cloud Explorer — Contract Verification & Infra
 
-A decentralized contract verification and explorer stack integrating **Sourcify**, serverless indexing, and a user-friendly UI.
+A decentralized contract verification + explorer stack integrating **Sourcify**, serverless indexing, and a dev-friendly UI.
 
 **Highlights:**
 
-- Sourcify-integrated verification flows  
-- TypeScript/Next.js UI + backend  
-- Metadata and ABI schema design  
-- Explorer-style developer UX  
+- Sourcify-based contract verification flows  
+- Explorer-style UX for multiple networks  
+- ABI/metadata pipelines and schema design  
+- Serverless APIs for contract and transaction data
 
-**Tech:** Solidity, Next.js, TypeScript, Prisma  
+**Tech:** Solidity, Next.js, TypeScript, Node.js, Prisma  
 
-🔗 https://github.com/modularcloud/explorer
+🔗 **Repo:** https://github.com/modularcloud/explorer  
 
 ---
 
-### 🔹 **Etch — NFT Social Protocol (NDA Project)**  
+### 🔹 Etch — NFT Social Protocol (NDA)
 
-**Private Repo — Code Restricted Under NDA**
+An **NFT-native social protocol** for publishing and interacting with dynamic on-chain media.
 
-Etch is an **NFT-powered social media platform** enabling creators and communities to publish, collect, and interact with dynamic on-chain media.
+**My work (high level):**
 
-I worked on the **core smart contract architecture**, including:
-
-- Modular NFT primitives  
-- Ownership, access control, and permissioning flows  
+- Core smart contract architecture & modular NFT primitives  
+- Ownership & access control flows  
 - Metadata and minting mechanisms  
-- Backend/indexer integration  
-- Upgrade-safe contract design  
+- Backend/indexer integration and UX-driven contract APIs  
 
-Work combines **Solidity**, **protocol/data modeling**, and **UX-driven contract systems**.
+**Tech:** Solidity, Foundry, Angular, TypeScript, Node.js  
 
-**Tech:** Solidity, Foundry, Angular, TypeScript  
+> Code is private under NDA; happy to discuss patterns and architecture at a high level.
 
 ---
 
-### 🔹 **Wells (Renamed Basin) DEX — Beanstalk Farms**  
+### 🔹 Wells / Basin — On-Chain ERC-20 DEX (Beanstalk Farms)
 
-On-chain ERC-20 exchange featuring:
+Contributions to **Wells (Basin)**, a production-grade ERC-20 DEX:
 
-- Gas-optimized Yul components  
-- Stateful fuzzing & invariants  
-- Modular, audit-ready design  
-
-I contributed to smart contract logic, optimization, and testing patterns supporting production-grade DeFi infrastructure.
+- Implemented new features and protocol logic  
+- Wrote **stateful fuzz tests & invariants**  
+- Performed gas optimization and audit-prep improvements  
 
 **Tech:** Solidity, Yul, Foundry, Hardhat  
 
-🔗 https://github.com/BeanstalkFarms/Basin
+🔗 **Repo:** https://github.com/BeanstalkFarms/Basin  
 
 ---
 
-### 🔹 **Yul / Low-Level EVM Research**  
+### 🔹 Yul Greatest Hits — Low-Level EVM R&D
 
-Explorations into raw EVM execution, assembly-level constructs, and gas optimization, including:
+A collection of experiments in **Yul** and low-level EVM patterns:
 
-- Opcode-level patterns  
-- Storage & memory optimizations  
-- DeFi primitive micro-architectures  
+- Opcode-level control flow and micro-optimizations  
+- Storage and memory layout patterns  
+- DeFi primitive prototypes written close to the metal  
 
-**Tech:** Yul, Assembly, Foundry  
+**Tech:** Yul, Solidity, Foundry  
 
-🔗 https://github.com/pynchmeister/yul-greatest-hits
+🔗 **Repo:** https://github.com/pynchmeister/yul-greatest-hits  
 
 ---
 
-## 🎓 **Teaching & Mentorship**
+### 🔹 Celestia Long-Term Data Storage MVP
 
-I’ve taught **30+ students** how to build secure and scalable blockchain systems:
+An MVP exploring **long-term verifiable storage** on top of **Celestia**:
 
-- Full custom curriculum & hands-on labs  
-- Smart contract security & auditing fundamentals  
-- EVM internals, opcodes, and gas modeling  
+- Architecture for data availability + content addressing  
+- Off-chain storage with on-chain proofs  
+- DA-aware application patterns for future rollups & dApps  
+
+**Tech:** Celestia, Rollkit, Ethermint, TypeScript, IPFS/Filecoin  
+
+🔗 **Repo:** https://github.com/pynchmeister/celestia-long-term-data-storage-mvp  
+
+---
+
+## 🧩 Upstream PRs & Open Source
+
+I actively contribute to open-source Web3 infra and protocol tooling.
+
+**Selected upstream work:**
+
+- **Modular Cloud Explorer** — contract verification & explorer improvements  
+  - PRs: https://github.com/modularcloud/explorer/pulls?q=is%3Apr+is%3Aclosed+author%3Apynchmeister  
+
+- **Beanstalk Farms / Basin** — DeFi primitives and testing  
+  - PRs: https://github.com/BeanstalkFarms/Basin/pulls?q=is%3Apr+is%3Aclosed+author%3Apynchmeister  
+
+I also maintain and experiment with:
+
+- `yul-greatest-hits` — low-level EVM/Yul R&D  
+- `vyper-greatest-hits` — Vyper contract experiments  
+- `huff-examples-foundry` — Huff patterns and examples in a Foundry workspace  
+
+---
+
+## 🎓 Teaching & Mentorship
+
+I’ve taught **30+ students** how to build secure, real-world blockchain systems:
+
+- Custom Solidity & EVM internals curriculum  
+- Smart contract security, threat modeling, and audit prep  
 - Foundry, Hardhat, invariant testing, and fuzzing  
-- Modular rollups & next-gen blockchain architecture  
+- Modular rollups, DA layers, and next-gen L1/L2 architectures  
 
-Passionate about decentralized education and guiding new blockchain engineers.
-
----
-
-## 🔧 **What I’m Working On Now**
-
-- ⚙️ Advanced smart contract architecture & gas-optimized Yul/Solidity  
-- 🧱 Production engineering for **Etch’s** NFT social protocol  
-- 🧪 Deep EVM internals, fuzzing, invariants, and low-level research  
-- 🏗️ Continued development of **DED** — settlement logic, verification, economic flows  
-- 📚 Expanding educational content for Solidity, EVM, and modular rollups  
+I care deeply about **decentralized education** and making advanced protocol concepts accessible.
 
 ---
 
-## 💼 **Open to Roles In**
+## 💼 Open To
 
-- Smart Contract Engineering  
-- Protocol Engineering  
-- Blockchain Infrastructure  
-- ZK / Cryptography R&D  
-- Web3 Developer Tooling  
-- Modular Rollups (Celestia, Rollkit, Sovereign Chains)
+I’m open to:
 
----
-
-## 📚 **Current Focus**
-
-- Smart contract security & gas optimization  
-- Modular blockchain development  
-- Zero-knowledge & privacy-preserving computation  
-- Decentralized education systems (DED)  
-- Teaching the next generation of blockchain engineers  
+- **Smart Contract Engineer** / **Protocol Engineer** roles  
+- **Blockchain Infra / Rollups / DA** teams  
+- **DeFi / NFT protocol** engineering  
+- **Developer tooling** and explorer/verification infra  
+- Collaborating on **DED** and decentralized education primitives  
 
 ---
 
-## 📫 **Connect With Me**
+## 📫 Contact
 
 - **GitHub:** https://github.com/pynchmeister  
-- **Email:** acyclicgraphs@gmail.com  
+- **Email:** `acyclicgraphs@gmail.com`  
 - **LinkedIn:** https://www.linkedin.com/in/harris-levine-486191164  
+
+If you’re building **modular infrastructure, next-gen protocols, or decentralized education systems**, I’d love to talk.
