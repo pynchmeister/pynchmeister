@@ -1,43 +1,132 @@
-# 👋 Hey, I’m **Harris Levine** — Blockchain Engineer & Educator
-
-I build secure smart contracts, modular blockchain systems, and full-stack Web3 applications.  
-I’ve worked on production protocols, modular rollups, NFT infrastructure, FHE playgrounds, and I teach 30+ students blockchain & Solidity from the ground up.  
-I’m also building a decentralized EdTech platform focused on open-access knowledge and long-term decentralized content storage.
+# 🌐 **Harris Levine — pynchmeister**  
+### **Smart Contract & Protocol Engineer**  
+**Solidity · Yul · Foundry · Celestia · Modular Rollups · EVM Internals · FHE · TypeScript**
 
 ---
 
-## 🚀 **Featured Work**
+## 🚀 **About Me**
 
-### 🔹 **Beanstalk Farms — Smart Contract Engineer**
-- Worked on **Wells** (renamed [Basin](https://github.com/BeanstalkFarms/Basin), an EVM-native AMM  
-- Added new smart contract features  
-- Performed **fuzz testing**, **integration testing**, and **gas optimizations** using Foundry  
-- Contributed to **audit preparation**  
-**Tech:** `Solidity` • `Yul` • `Foundry` • `Hardhat` • `TypeScript`
+I’m a **senior smart contract engineer & full-stack blockchain developer** with **6+ years** of experience building:
 
----
+- Production-grade **DeFi protocols**  
+- **Modular rollups** (Celestia/Rollkit/Ethermint)  
+- Secure, gas-optimized **Solidity/Yul smart contracts**  
+- Cryptographic systems and emerging blockchain primitives  
+- On-chain **NFT protocols**, verifiable storage, and decentralized tooling  
+- Scalable Web3 infrastructure used in real applications  
 
-### 🔹 **Etch — NFT Protocol (NDA-Limited)**
-- Designed and deployed secure smart contracts for a next-generation NFT protocol  
-- Built backend services and frontend UI components  
-- Focused on reliability, test coverage, and user experience  
-**Tech:** `Solidity` • `Angular` • `TypeScript` • `Hardhat`
+I’ve shipped real-world protocol features, architected sovereign rollup components, built developer tooling, and taught **30+ students** blockchain development, EVM internals, and Solidity design patterns.
+
+Currently focused on advanced Solidity engineering, backend infra, and real-world protocol architecture.
 
 ---
 
-### 🔹 **Celestia Modular Fellowship**
-- Built an arbitration system using long-term data availability on **IPFS + Filecoin**  
-- Created a **sovereign rollup** prototype using Ethermint + Rollkit  
-- Developed the **Learning Session** smart contract for decentralized educational content  
-**Tech:** `Golang` • `Celestia` • `Rollkit` • `IPFS` • `Solidity` • `
+## 🧠 **Technical Specializations**
 
-### 🔹 **DED — Decentralized Education Development (EdTech DApp Startup)**
-- Founder & lead engineer of **DED**, a decentralized education platform focused on global, censorship-resistant learning  
-- Enables students and educators to teach or learn **niche and highly valuable skill sets** that traditional education systems don’t offer  
-- Built for **interactive, 1-on-1 or group learning** environments using **WebRTC**, allowing real-time video, audio, and collaboration  
-- Integrated on-chain payments: learners can pay educators directly through the DApp with crypto, with no intermediaries or platform extraction, using robust escrow architecture.
-- Lessons, educational content, and community knowledge are stored permanently using **IPFS / Filecoin**  
-- Includes a decentralized arbitration + community validation system to ensure lesson quality  
+**Smart Contracts**  
+`Solidity` · `Yul` · `Foundry` · `Hardhat` · `OpenZeppelin` · `Security` · `Gas Optimization`
+
+**Blockchain / Infra**  
+`Celestia` · `Rollkit` · `Ethermint` · `IPFS` · `Filecoin` · `Sourcify` · `FHE`
+
+**Backend / Frontend**  
+`TypeScript` · `Node.js` · `Next.js` · `React` · `Angular` · `Prisma` · `PostgreSQL`
+
+**Other**  
+`Golang` · `Python` · `AWS` · `WebRTC` · `Vercel` · `Cryptography`
+
+---
+
+## ⭐ **Featured Projects**
+
+### 🔹 **DED — Decentralized Education Development**  
+A decentralized education protocol built on a **Celestia sovereign rollup**, featuring:  
+- On-chain learning contracts  
+- Decentralized arbitration using **IPFS/Filecoin**  
+- Real-time collaboration via **WebRTC**  
+- Rollkit/Ethermint execution environment  
+**Tech:** Celestia, Rollkit, IPFS, Solidity, Node.js  
+👉 _Repo link here_ (pin this repo)
+
+---
+
+### 🔹 **Contract Verification System (Modular Cloud)**  
+A decentralized verification tool integrating **Sourcify**, serverless indexing, and a full UI.  
+**Tech:** Solidity, Next.js, TypeScript, Prisma  
+👉 _Repo link here_
+
+---
+
+### 🔹 **Etch NFT Protocol Work**  
+Smart contract architecture + backend/API engineering for an advanced NFT protocol (NDA-protected).  
+Responsible for:  
+- Gas-optimized contract systems  
+- Cross-component backend integration  
+- Optimized UX-focused UI flows  
+**Tech:** Solidity, Foundry, Angular, TypeScript  
+👉 _Public repos if available / otherwise describe role_
+
+---
+
+### 🔹 **Wells DEX — Beanstalk Farms**  
+On-chain ERC-20 exchange with:  
+- Gas-optimized Yul components  
+- Fuzz testing and invariants  
+- Audit-ready modular design  
+**Tech:** Solidity, Yul, Foundry, Hardhat  
+👉 _Repo link here_
+
+---
+
+### 🔹 **Yul / Low-Level EVM Research**  
+Deep dives, experiments, and implementation patterns in low-level EVM & Yul.  
+**Tech:** Yul, Assembly, Foundry  
+👉 _Repo link here_
+
+---
+
+## 🔧 **What I’m Working On Now**
+
+- ⚙️ Advanced smart contract architecture & gas-optimized Solidity/Yul patterns  
+- 🧱 Production engineering for **Etch’s NFT protocol**, including backend integrations & optimized UX flows  
+- 🧪 Continued Yul, Foundry, and EVM internals research and experimentation  
+- 🏗️ Further development of **DED (Decentralized Education Development)** — scaling the architecture, strengthening arbitration mechanics, and expanding rollup + storage integrations  
+- 📚 Creating improved educational materials for Solidity, EVM fundamentals, and blockchain architecture  
+
+---
+
+## 🎓 **Teaching & Mentorship**
+
+I’ve taught **30+ students** how to build secure and scalable blockchain systems:
+
+- Solidity (beginner → advanced)  
+- Smart contract security practices  
+- EVM internals & gas modeling  
+- Foundry, Hardhat, and testing methodologies  
+- Modular rollups & next-gen blockchain architecture  
+
+I’m passionate about decentralized education and mentorship.
+
+---
+
+## 📫 **Connect With Me**
+
+- **GitHub:** https://github.com/pynchmeister  
+- **LinkedIn:** https://linkedin.com/in/harris-levine-486191164  
+- **Email:** acyclicgraphs@gmail.com  
+
+---
+
+## 💼 **Open to Roles In:**
+
+- Smart Contract Engineering  
+- Protocol Engineering  
+- Blockchain Infrastructure  
+- ZK / Cryptography R&D  
+- Web3 Developer Tooling  
+- Modular Rollups (Celestia, Rollkit, Sovereign Chains)
+
+---- Includes a decentralized arbitration + community validation system to ensure lesson quality  
 - Uses a Celestia sovereign rollup for scalable, trust-minimized interactions  
 **Tech:** `Solidity` • `Celestia` • `IPFS` • `Filecoin` • `WebRTC` • `React` • `Node.js`
 ---
